@@ -9,7 +9,10 @@ b.	Refer - https://www.youtube.com/watch?v=4Rx_JRkwAjY
 2.	To run execute this command in cmd, in same directory where the python file is present.
 python expense_manager.py
 3. The JSON files contains my previously saved expense data. No need to download them.  
+
+
 Features
+
 1.	 Add an item
 a.	You can add an item and its cost for any day.
 b.	Not limited to today or the system’s date.
