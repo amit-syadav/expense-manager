@@ -191,7 +191,7 @@ def jsonLoad():
 
 def main(): # driver function
     global MAX_LIMIT_PER_WEEK
-    user = input("Please enter your good name \n")
+    user = input("Please enter your name \n")
     user = user.title() # convert to title case
 
     MAX_LIMIT_PER_WEEK = int(input("Please enter the Maximum expense limit for a week\n"))
